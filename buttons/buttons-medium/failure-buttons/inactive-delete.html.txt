@@ -1,0 +1,23 @@
+<style>
+.inactive-delete{
+font-size: 25px;
+font-weight: 700;
+border: 1px solid #7e7e7e;
+border-radius: 5px;
+background-color: #c4c4c4;
+color: black;
+height: 55px !important;
+  width: 266.41px !important;
+	font-weight: 700;
+}
+
+
+
+
+</style>
+
+<html>
+<button class="inactive-delete">Delete</button>
+
+
+</html>
